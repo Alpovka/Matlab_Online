@@ -1,8 +1,6 @@
-% ÝNTERNETTEN ALINTIDIR
 % Matlab function for solution of matrix equation
 % Using Jacobi method
 % Initial solution set is considered as zero
-% Author: Ajeet Kumar
 % Take input as System Matrix A
 % Coefficient Matrix B
 % Value returns the solution set
