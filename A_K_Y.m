@@ -1,4 +1,4 @@
-% ADIM KÜÇÜLTME YÖNTEMÝ % % % % % % % % % % %
+% STEP REDUCTION METHOD % % % % % % % % % % %
 
 clc;
 f = inline('(x^3)+(x^2)*(0.8+1.54)+x*(0.8*1.54-2.4)-(2.4*1.54)','x');
